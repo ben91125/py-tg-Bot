@@ -15,6 +15,7 @@ async def start(client, message):
             [
                 [
                     InlineKeyboardButton("Souce", url="https://github.com/vivek-tp/Tg-Bot"),
+                    InlineKeyboardButton("Scott", url="https://github.com/vivek-tp/Tg-Bot"),
                     InlineKeyboardButton("Support", url="https://t.me/OpensourceTG")
                 ]
             ]
